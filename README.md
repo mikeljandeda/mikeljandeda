@@ -26,10 +26,10 @@ I'm a third-year Computer Science student at the **University of Calgary**, conc
 
 ### Projects
 
-**[Tamaureus](https://github.com/yourusername/tamaureus)**
+**[Tamaureus](https://github.com/stranzn/tamaureus)**
 A cross-platform desktop music player built using Tauri, SolidJS on the frontend, and Rust on the backend.
 
-**[Rate My Schedule](https://github.com/yourusername/rate-my-schedule)**
+**[Rate My Schedule](https://github.com/mikeljandeda/rate-my-schedule)**
 A full-stack scheduling platform with Next.js, React, and MySQL. Handles server-side rendering, RESTful API routes, authentication, and dynamic UI updates.
 
 ---
