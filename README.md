@@ -36,7 +36,7 @@ A full-stack scheduling platform with Next.js, React, and MySQL. Handles server-
 
 ### Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mikeljan-deda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikeljan-deda)
 
 <!--
 **mikeljandeda/mikeljandeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
